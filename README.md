@@ -18,7 +18,7 @@ A aplicação pode ser executada através do arquivo "Controle Loja de Celular.j
 ## Instruções para compilação do código  
 Fazer o clone do repositório na sua máquina local.  
 1. Executar os scripts de sql localizados no caminho "Controle-Loja-de-Celular
-/banco de dados/" na seguinte ordem: "Script_Criação.sql", "Script_Povoamento.sql" e "Script_Manipulação_Segurança.sql".  
+/banco de dados/" na seguinte ordem: "Script_Criação.sql", "Script_Povoamento.sql" e "Script_Manipulação.sql".  
 2. Inserir no arquivo "persistence.xml" localizado no caminho "Controle-Loja-de-Celular/src/main/resources/META-INF
 /persistence.xml" os dados para conexão com o banco de dados, "user" e "password" nas linhas 17 e 18 respectivamente.  
 3. Fazer o Build do Projeto.  
